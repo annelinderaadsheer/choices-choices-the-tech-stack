@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <div>
       <Header />
+
       <main>
         {}
         <h1>Test</h1>

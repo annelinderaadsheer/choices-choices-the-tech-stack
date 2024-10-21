@@ -1,26 +1,15 @@
 // components/Header.js
 import { useEffect, useState } from 'react';
-
-const categoriesData = [
-  { slug: 'category-1', name: 'Categorie 1' },
-  { slug: 'category-2', name: 'Categorie 2' },
-];
-
-const dateFormat = {
-  month: 'long',
-  day: 'numeric',
-  weekday: 'long',
-  year: 'numeric'
-};
+import { categoriesData, dateFormat } from '../lib/data'; // Importeer je data
 
 export default function Header() {
-  const [currentDate, setCurrentDate] = useState('');
+    const [currentDate, setCurrentDate] = useState('');
 
-  useEffect(() => {
-    setCurrentDate(new Date().toLocaleDateString('nl-NL', dateFormat));
-  }, []);
+    useEffect(() => {
+        setCurrentDate(new Date().toLocaleDateString('nl-NL', dateFormat));
+    }, []);
 
-  return (
+    return (
     <header>
       <div className="klein-scherm">
         <section className="mobile-header">
