@@ -1,32 +1,55 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/choices-choices-the-tech-stack/blob/main/docs/INSTRUCTIONS.md)
-
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+# Choices Choises Next.js
 
 ## Inhoudsopgave
-
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
+  * [Beschrijving]
+  * [Live Link Website 🔗]
+  * [How to use the page ⌨️ 🖱️]
+  * [Techniques Used 📚]
+  * [How to Clone and Use This Project 👯]
+  * [Bronnen]
+  * [Licentie]
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
 
-## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+Voor de opdrachtgever RedPers heb ik een andere tech-stack gekozen voor het ontwerpen en bouwen van hun website. 
+Ik heb gekozen voor het framework Next.js.
 
-## Installatie
+RedPers is een journalistiek platform met 54 jonge, gedreven mensen die zich inzetten voor journalistiek. Het biedt de kans om ervaring op te doen met alle aspecten van een journalistiek platform, van schrijven tot websitebeheer. De website is nog geen jaar oud en volop in ontwikkeling.
 
-## Gebruik
+Dit project had als doel om te leren wat de verschillen en overeenkomsten zijn tussen tech-stacks.
+
+## Live Link Website 🔗
+
+https://choices-choices-the-tech-stack-mauve.vercel.app
+
+## How to use the page ⌨️ 🖱️
+De website is ontworpen met een gebruiksvriendelijke interface. Bezoekers kunnen eenvoudig door de pagina's navigeren dankzij de intuïtieve structuur. Interactie met de website gebeurt via knoppen, formulieren en andere interactieve elementen die consistent werken op verschillende apparaten.
+
+## Techniques Used 📚
+De website is gebouwd met behulp van de volgende technieken:
+* HTML – Voor de structuur van de website.
+* CSS – Voor de opmaak en het ontwerp.
+* Next.js – Voor het opzetten van het framework.
+* WordPress – Gebruikt als headless CMS voor contentbeheer via de API.
+
+## How to Clone and Use This Project 👯
+Volg de onderstaande stappen om dit project lokaal te gebruiken:
+
+1. Clone the Repository 
+2. Open the repo with a code editor zoals VSCode
+3. Open the terminal en navigeer naar de projectmap
+4. Type ```npx create-next-app@latest``` or ```npx create-next-app@latest```
+6. "Optional":
+   - Fork the repository.
+   - Create a new branch and make your changes.
+   - Submit a pull request with a description of your changes. 
 
 ## Bronnen
+Hier zijn wat handige bronnen die ik tijdens dit project hebben gebruikt:
+
+* https://nodejs.org/en
+* https://jamstack.org/generators/next/
+* https://nextjs.org
 
 ## Licentie
 
