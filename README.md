@@ -22,6 +22,15 @@ RedPers is een journalistiek platform met 54 jonge, gedreven mensen die zich inz
 
 Next.js is een framework dat is gebouwd op React. Het maakt het ontwikkelen van websites gemakkelijker, met veel handige functies.
 
+## Onderzoek naar User eXperience (UX): Hoe een website of app is voor de gebruiker.
+Next.js maakt websites die snel laden en soepel werken. Gebruikers kunnen daardoor zonder vertraging de content bekijken en gebruiken, wat hun ervaring veel fijner maakt.
+
+## Onderzoek naar Developer eXperience (DX): Hoe het is voor ontwikkelaars om hiermee te werken.
+Voor ontwikkelaars biedt Next.js handige tools en functies die het bouwen van websites eenvoudiger maken. Dit betekent dat ze sneller kunnen werken en minder tijd kwijt zijn aan technische problemen.
+
+## Content management eXperience (CX): Hoe het is om content te beheren en bij te werken zonder technische kennis.
+Next.js werkt goed samen met systemen voor het beheren van content, zoals ook WordPress. Dit betekent dat mensen zonder technische kennis makkelijk de content kunnen aanpassen en bijwerken.
+
 ## Kenmerken van Next.js
 * Server-Side Rendering (SSR): Met SSR worden pagina’s op de server gegenereerd bij elke aanvraag. Dit zorgt ervoor dat de inhoud van de pagina’s sneller wordt weergegeven.
 * Statische Site Generatie (SSG): Next.js biedt ook de mogelijkheid om pagina's vooraf te genereren tijdens de bouw fase. Dit is handig voor inhoud die niet vaak verandert, zoals bijv. blogs, waardoor de laadtijden worden verbeterd.
