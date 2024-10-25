@@ -30,6 +30,8 @@ RedPers is een journalistiek platform met 54 jonge, gedreven mensen die zich inz
 
 Next.js is een framework dat is gebouwd op React. Het maakt het ontwikkelen van websites gemakkelijker, met veel handige functies.
 
+[Zie #9](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/issues/9)
+
 ## Onderzoek naar User eXperience (UX): Hoe een website of app is voor de gebruiker.
 Next.js maakt websites die snel laden en soepel werken. Gebruikers kunnen daardoor zonder vertraging de content bekijken en gebruiken, wat hun ervaring veel fijner maakt.
 
