@@ -1,4 +1,4 @@
-# Choices Choises Next.js
+# Choices Choies Next.js
 
 ## Inhoudsopgave
   * [Beschrijving](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#beschrijving)
@@ -16,7 +16,29 @@ Ik heb gekozen voor het framework Next.js.
 
 Dit project had als doel om te leren wat de verschillen en overeenkomsten zijn tussen tech-stacks.
 
-RedPers is een journalistiek platform met 54 jonge, gedreven mensen die zich inzetten voor journalistiek. Het biedt de kans om ervaring op te doen met alle aspecten van een journalistiek platform, van schrijven tot websitebeheer. 
+RedPers is een journalistiek platform met 54 jonge, gedreven mensen die zich inzetten voor journalistiek. Het biedt de kans om ervaring op te doen met alle aspecten van een journalistiek platform, van schrijven tot websitebeheer.
+
+## Wat is Next.js?
+
+Next.js is een framework dat is gebouwd op React. Het maakt het ontwikkelen van websites gemakkelijker, met veel handige functies.
+
+## Kenmerken van Next.js
+* Server-Side Rendering (SSR): Met SSR worden pagina’s op de server gegenereerd bij elke aanvraag. Dit zorgt ervoor dat de inhoud van de pagina’s sneller wordt weergegeven.
+* Statische Site Generatie (SSG): Next.js biedt ook de mogelijkheid om pagina's vooraf te genereren tijdens de bouw fase. Dit is handig voor inhoud die niet vaak verandert, zoals bijv. blogs, waardoor de laadtijden worden verbeterd.
+* TypeScript-ondersteuning: Next.js heeft ingebouwde ondersteuning voor TypeScript, wat bugs kan voorkomen.
+
+## Voordelen van Next.js
+
+* Gebaseerd op React, wat betekent dat je vaardigheden kunt toepassen in andere React-projecten.
+* Eenvoudige Deployment via Vercel.
+* Veel technische instellingen worden automatisch geregeld, zodat je je vooral kunt concentreren op de ontwikkeling van je project.
+* Geschikt voor kleine tot grote projecten.
+* Next.js verbetert de gebruikerservaring door automatisch afbeeldingen, lettertypen en scripts te optimaliseren.
+
+## Nadelen van Next.js
+
+1. Voor kleine projecten kan Next.js weer te veel functies bieden, wat het moeilijker en ingewikkelder maakt.
+2. Voor beginners kan Next.js overweldigend zijn, vooral als ze nog niet goed bekend zijn met React.
 
 ## Live Link Website 🔗
 
