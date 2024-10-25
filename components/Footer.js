@@ -1,11 +1,10 @@
-// components/Footer.js
 import React, { useState, useEffect } from 'react';
+import Image from 'next/image';
 
 const Footer = () => {
     const [year, setYear] = useState(new Date().getFullYear());
 
     useEffect(() => {
-        // Functie om het jaar te updaten
         const updateYear = () => {
             const currentYear = new Date().getFullYear();
             if (currentYear !== year) {
@@ -13,16 +12,14 @@ const Footer = () => {
             }
         };
 
-        // Jaar updaten elke 24 uur
         const interval = setInterval(updateYear, 1000 * 60 * 60 * 24);
 
-        // Opruimen van de interval bij component unmount
         return () => clearInterval(interval);
     }, [year]);
 
     return (
         <footer>
-            <img src="/RedPers_Logo_Cmyk_Black.webp" alt="Red Pers Logo" />
+            <Image src="/Redpers-logo.webp" alt="RedPers logo" width="125" height="30" />
             <ul className="footer-layout">
                 <li className="kopjes">
                     <h3 className="kop-4">RUBRIEKEN</h3>
@@ -78,7 +75,6 @@ const Footer = () => {
                 </ul>
             </section>
 
-            {/* Styles */}
             <style jsx>{`
                 footer {
                     background-color: #f5f5f5;

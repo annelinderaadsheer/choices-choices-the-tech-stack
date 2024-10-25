@@ -1,6 +1,6 @@
-// components/Header.js
-import { useEffect, useState } from 'react';
-import { categoriesData, dateFormat } from '../lib/data'; // Importeer je data
+import { useEffect, useState } from 'react'; 
+import { categoriesData, dateFormat } from '../lib/data'; 
+import Image from 'next/image';
 
 export default function Header() {
     const [currentDate, setCurrentDate] = useState('');
@@ -38,10 +38,10 @@ export default function Header() {
             </div>
           </nav>
           <a href="/">
-            <img src="/images/Redpers-logo.webp" alt="RedPers logo" width="150" height="35" />
+            <Image src="/Redpers-logo.webp" alt="RedPers logo" width="150" height="35" />
           </a>
           <a href="/search" className="mobile-search-icon">
-            <img src="/images/free-search-icon-2903-thumb.png" alt="Search" width="25" height="25" />
+            <Image src="/free-search-icon-2903-thumb.png" alt="Search" width="25" height="25" />
           </a>
         </section>
 
@@ -68,14 +68,14 @@ export default function Header() {
             <p className="uppercase">Podium voor de journalistiek</p>
           </div>
           <a href="/">
-            <img src="/RedPers_Logo_Cmyk_Black (1).webp" alt="RedPers logo" width="160" height="40" />
+            <Image src="/RedPers-logo.webp" alt="RedPers logo" width="160" height="40" />
           </a>
           <ul>
             <li>Nieuwsbrief</li>
             <li><button>Doneren</button></li>
             <li>
               <a href="/search">
-                <img src="/free-search-icon-2903-thumb.png" alt="Search" width="20" height="20" />
+                <Image src="/free-search-icon-2903-thumb.png" alt="Search" width="20" height="20" />
               </a>
             </li>
           </ul>
