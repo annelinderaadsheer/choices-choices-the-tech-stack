@@ -2,6 +2,13 @@
 
 ## Inhoudsopgave
   * [Beschrijving](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#beschrijving)
+  * [Wat is Next.js?](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#wat-is-nextjs)
+  * [Onderzoek naar User eXperience (UX): Hoe een website of app is voor de gebruiker.](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#onderzoek-naar-user-experience-ux-hoe-een-website-of-app-is-voor-de-gebruiker)
+  * [Onderzoek naar Developer eXperience (DX): Hoe het is voor ontwikkelaars om hiermee te werken.](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#onderzoek-naar-developer-experience-dx-hoe-het-is-voor-ontwikkelaars-om-hiermee-te-werken)
+  * [Onderzoek naar Content management eXperience (CX): Hoe het is om content te beheren en bij te werken zonder technische kennis.](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#content-management-experience-cx-hoe-het-is-om-content-te-beheren-en-bij-te-werken-zonder-technische-kennis)
+  * [Kenmerken van Next.js](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#kenmerken-van-nextjs)
+  * [Voordelen van Next.js](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#voordelen-van-nextjs)
+  * [Nadelen van Next.js](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#nadelen-van-nextjs)
   * [Live Link Website 🔗](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#live-link-website-)
   * [How to use the page ⌨️ 🖱️](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#how-to-use-the-page-%EF%B8%8F-%EF%B8%8F)
   * [Techniques Used 📚](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#techniques-used-)
@@ -28,7 +35,7 @@ Next.js maakt websites die snel laden en soepel werken. Gebruikers kunnen daardo
 ## Onderzoek naar Developer eXperience (DX): Hoe het is voor ontwikkelaars om hiermee te werken.
 Voor ontwikkelaars biedt Next.js handige tools en functies die het bouwen van websites eenvoudiger maken. Dit betekent dat ze sneller kunnen werken en minder tijd kwijt zijn aan technische problemen.
 
-## Content management eXperience (CX): Hoe het is om content te beheren en bij te werken zonder technische kennis.
+## Onderzoek naar Content management eXperience (CX): Hoe het is om content te beheren en bij te werken zonder technische kennis.
 Next.js werkt goed samen met systemen voor het beheren van content, zoals ook WordPress. Dit betekent dat mensen zonder technische kennis makkelijk de content kunnen aanpassen en bijwerken.
 
 ## Kenmerken van Next.js
