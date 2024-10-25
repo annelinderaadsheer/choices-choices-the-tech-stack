@@ -1,5 +1,3 @@
-// components/ArtikelInfoframe.js
-
 import React from 'react';
 
 const ArtikelInfoframe = ({ post }) => {
