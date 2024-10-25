@@ -14,6 +14,7 @@
   * [Techniques Used 📚](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#techniques-used-)
   * [How to Clone and Use This Project 👯](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#how-to-clone-and-use-this-project-)
   * [Bronnen](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#bronnen)
+  * [Conslusie](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#conclusie)
   * [Licentie](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#licentie)
 
 ## Beschrijving
