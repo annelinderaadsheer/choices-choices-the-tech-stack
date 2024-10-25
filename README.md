@@ -1,13 +1,13 @@
 # Choices Choises Next.js
 
 ## Inhoudsopgave
-  * [Beschrijving]
-  * [Live Link Website 🔗]
-  * [How to use the page ⌨️ 🖱️]
-  * [Techniques Used 📚]
-  * [How to Clone and Use This Project 👯]
-  * [Bronnen]
-  * [Licentie]
+  * [Beschrijving](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#beschrijving)
+  * [Live Link Website 🔗](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#live-link-website-)
+  * [How to use the page ⌨️ 🖱️](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#how-to-use-the-page-%EF%B8%8F-%EF%B8%8F)
+  * [Techniques Used 📚](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#techniques-used-)
+  * [How to Clone and Use This Project 👯](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#how-to-clone-and-use-this-project-)
+  * [Bronnen](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#bronnen)
+  * [Licentie](https://github.com/annelinderaadsheer/choices-choices-the-tech-stack/blob/main/README.md#licentie)
 
 ## Beschrijving
 
