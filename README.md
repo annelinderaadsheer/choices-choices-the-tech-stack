@@ -90,6 +90,10 @@ Hier zijn wat handige bronnen die ik tijdens dit project hebben gebruikt:
 * https://jamstack.org/generators/next/
 * https://nextjs.org
 
+## Conclusie
+
+Next.js is een prima keuze voor het maken van een website. Het zorgt voor een snelle ervaring voor gebruikers, omdat de pagina's snel laden. Voor ontwikkelaars is het gemakkelijk om ermee te werken als je al enige kennis hebt van React. Ik liep zelf wel tegen veel uitdagingen aan en moest vaak voor oplossingen zoeken.
+
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
