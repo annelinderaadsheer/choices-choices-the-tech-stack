@@ -90,6 +90,9 @@ Hier zijn wat handige bronnen die ik tijdens dit project hebben gebruikt:
 * https://nodejs.org/en
 * https://jamstack.org/generators/next/
 * https://nextjs.org
+* https://dev.to/parthspan/how-can-nextjs-improve-ux-in-ecommerce-3b1p
+* https://blog.logrocket.com/next-js-vs-react-developer-experience/
+* https://dev.to/hackmamba/how-to-build-a-full-stack-content-management-system-using-nextjs-xata-and-cloudinary-iaa
 
 ## Conclusie
 
